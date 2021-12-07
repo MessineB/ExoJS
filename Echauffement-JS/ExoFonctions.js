@@ -93,4 +93,3 @@ function Somme(a,b,c) {
 Somme(5,6,7)
 
 
-
